@@ -5,4 +5,6 @@ Here are some pictures of cute animals!!
 
 **What a cute dog!**
 
+![image](https://user-images.githubusercontent.com/89279673/138018031-132af918-c040-4113-8745-11be2b58e747.jpeg)
 
+**Cats are way better than dogs!**
