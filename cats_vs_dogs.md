@@ -2,11 +2,13 @@
 <h1>Why are cats better than dogs?</h1>
 
 <p1>
-**Because they just are.** Thats just how things are. Here's a list if you need more evidence.
-
-1. Cats dont really care about you, so they'll leave you alone when you want them too. However, they can also be super affectionate and cat cuddles are the **best**.
-2. Cats are smarter than dogs.
-3. Cats will bring you presents. The other day my cat, Howard, actually brought a bird into the house. **How fun!**
+  Because thats just how things are, and here's a list if you need more evidence.
+  <br>
+  <br>
+  
+  1. Cats dont really care about you, so they'll leave you alone when you want them too. However, they can also be super affectionate and cat cuddles are the   **best**.
+  2. Cats are smarter than dogs.
+  3. Cats will bring you presents. The other day my cat, Howard, actually brought a bird into the house. **How fun!**
 
 </p1>
 
