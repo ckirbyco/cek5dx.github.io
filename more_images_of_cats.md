@@ -2,6 +2,13 @@
 <h2>Here are some more images of cats!</h2>
 
 <p>
-  Who doesn't love cats!
+  Who doesn't love some adorable cat photos!
   
+  ![image](https://user-images.githubusercontent.com/89279673/138019740-a0590b64-15dc-43a6-8b01-839f329f596c.jpeg)
+  <br>
+  ![image](https://user-images.githubusercontent.com/89279673/138019743-6f289c4e-113f-4506-bb15-f400379fd5c0.jpeg)
+  <br>
+  ![image](https://user-images.githubusercontent.com/89279673/138019757-d481360e-afcc-47bb-8d91-2899da820a10.jpeg)
+  <br>
+  ![image](https://user-images.githubusercontent.com/89279673/138019761-85bddccf-e4ef-4fec-9d2e-33df1b970bc5.jpeg)
 </p>
