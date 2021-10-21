@@ -8,4 +8,4 @@ Hi! My name is Caroline Kirby and this is going to be all about **cute pets**! I
 *Click this link to look at pictures of cute animals!* [Cute animals!](cute_animals.md)<br>
 *Click this link to understand why cats are better than dogs!* [Cats Vs Dogs](cats_vs_dogs.md)<br>
 *Click this link to look at some HTML code for cats!* [Code for Cats!](code_for_cats.md)<br>
-*You can never look at enough cat pictures, so here's some more images of cats!*[Extra Images of Cats](more_images_of_cats.md)
+*You can never look at enough cat pictures, so here's some more images of cats!* [Extra Images of Cats](more_images_of_cats.md)
